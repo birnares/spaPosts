@@ -1,0 +1,8 @@
+.mySelect {
+    padding: 5px 14px;
+    margin: 5px 0;
+    border: 1px solid teal;
+    outline: none;
+    color: teal;
+    text-align: center;
+}
